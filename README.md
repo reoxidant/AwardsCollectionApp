@@ -17,8 +17,8 @@ SwiftUI project with drawn shapes using path lines. Сustom view has animations.
 
 ## Requirement:
 
-- IOS SDK 13.6
-- Xcode 11.0
+- IOS SDK 15
+- Xcode 13.0
 
 ## Contacts:
 
